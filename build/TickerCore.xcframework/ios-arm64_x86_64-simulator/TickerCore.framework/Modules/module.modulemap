@@ -1,0 +1,8 @@
+framework module "TickerCore" {
+	header "ref.h"
+    header "Core.objc.h"
+    header "Universe.objc.h"
+    header "TickerCore.h"
+
+    export *
+}
